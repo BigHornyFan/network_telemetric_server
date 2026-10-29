@@ -1,0 +1,22 @@
+# Docker Data (DB, Kafka)
+data/
+*.log
+
+# Compiled C++
+build/
+*.o
+*.a
+*.so
+*.exe
+CMakeCache.txt
+CMakeFiles/
+
+# IDE and stuff
+.vscode/
+.idea/
+*.swp
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
